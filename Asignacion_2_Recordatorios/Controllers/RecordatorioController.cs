@@ -12,7 +12,7 @@ namespace Asignacion_2_Recordatorios.Controllers
 
             var response =
                 await client
-                .From<Recordatorio>()
+                .From<RecordatorioVista>()
                 .Get();
 
             return View(response.Models);

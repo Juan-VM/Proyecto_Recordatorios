@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj": {}
+    "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj": {
+    "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj",
+        "projectUniqueName": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj",
         "projectName": "Asignacion_2_Recordatorios",
-        "projectPath": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj",
+        "projectPath": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj",
         "packagesPath": "C:\\Users\\juanv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios\\obj\\",
+        "outputPath": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

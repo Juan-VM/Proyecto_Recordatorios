@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R0xKv7vtFPg=",
+  "dgSpecHash": "gc2PNigbbho=",
   "success": true,
-  "projectFilePath": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj",
+  "projectFilePath": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juanv\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.5.1\\microsoft.identitymodel.abstractions.7.5.1.nupkg.sha512",
     "C:\\Users\\juanv\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.5.1\\microsoft.identitymodel.jsonwebtokens.7.5.1.nupkg.sha512",

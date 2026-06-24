@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Asignacion_2_Recordatorios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92107ec514c136ac6406302c862a4a3268007f56")]
 [assembly: System.Reflection.AssemblyProductAttribute("Asignacion_2_Recordatorios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Asignacion_2_Recordatorios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
