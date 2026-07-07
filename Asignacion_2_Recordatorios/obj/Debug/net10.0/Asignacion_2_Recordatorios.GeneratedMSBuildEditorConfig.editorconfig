@@ -23,6 +23,10 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/juanv/OneDrive - CastroCarazo/CASTRO CARAZO/CUATRIMESTRES/7mo CUATRIMESTRE/Progra V/Asignaciones/Proyecto_Recordatorios/Asignacion_2_Recordatorios/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/juanv/OneDrive - CastroCarazo/CASTRO CARAZO/CUATRIMESTRES/7mo CUATRIMESTRE/Progra V/Asignaciones/Proyecto_Recordatorios/Asignacion_2_Recordatorios/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -39,8 +43,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjb3JkYXRvcmlvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/juanv/OneDrive - CastroCarazo/CASTRO CARAZO/CUATRIMESTRES/7mo CUATRIMESTRE/Progra V/Asignaciones/Proyecto_Recordatorios/Asignacion_2_Recordatorios/Views/Recordatorio/_TablaRecordatorios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjb3JkYXRvcmlvXF9UYWJsYVJlY29yZGF0b3Jpb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/juanv/OneDrive - CastroCarazo/CASTRO CARAZO/CUATRIMESTRES/7mo CUATRIMESTRE/Progra V/Asignaciones/Proyecto_Recordatorios/Asignacion_2_Recordatorios/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juanv/OneDrive - CastroCarazo/CASTRO CARAZO/CUATRIMESTRES/7mo CUATRIMESTRE/Progra V/Asignaciones/Proyecto_Recordatorios/Asignacion_2_Recordatorios/Views/Shared/_ErrorSupabase.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9FcnJvclN1cGFiYXNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juanv/OneDrive - CastroCarazo/CASTRO CARAZO/CUATRIMESTRES/7mo CUATRIMESTRE/Progra V/Asignaciones/Proyecto_Recordatorios/Asignacion_2_Recordatorios/Views/Shared/_PasswordIncorrecto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXNzd29yZEluY29ycmVjdG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juanv/OneDrive - CastroCarazo/CASTRO CARAZO/CUATRIMESTRES/7mo CUATRIMESTRE/Progra V/Asignaciones/Proyecto_Recordatorios/Asignacion_2_Recordatorios/Views/Shared/_UsuarioBloqueado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Vc3VhcmlvQmxvcXVlYWRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juanv/OneDrive - CastroCarazo/CASTRO CARAZO/CUATRIMESTRES/7mo CUATRIMESTRE/Progra V/Asignaciones/Proyecto_Recordatorios/Asignacion_2_Recordatorios/Views/Shared/_UsuarioNoExiste.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Vc3VhcmlvTm9FeGlzdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/juanv/OneDrive - CastroCarazo/CASTRO CARAZO/CUATRIMESTRES/7mo CUATRIMESTRE/Progra V/Asignaciones/Proyecto_Recordatorios/Asignacion_2_Recordatorios/Views/Shared/_ValidationScriptsPartial.cshtml]

@@ -1,0 +1,49 @@
+﻿@model LoginViewModel
+
+<div class="container">
+    <div class="row justify-content-center align-items-center"
+         style="min-height: 80vh;">
+        <div class="col-md-5 col-lg-4">
+            <div class="card shadow-lg border-0">
+                <div class="card-header bg-primary text-white text-center py-4">
+                    <h2 class="mb-1 fw-bold">
+                        HelpDesk Pro
+                    </h2>
+                    <p class="mb-0">
+                        Iniciar Sesión
+                    </p>
+                </div>
+
+                <div class="card-body p-4">
+                    @if (ViewBag.Error != null)
+                    {
+                        <partial name="@ViewBag.Error" />
+                    }
+
+                    <form asp-action="Login">
+                        <div class="mb-3">
+                            <label asp-for="Correo" class="form-label fw-semibold">
+                                Correo electrónico
+                            </label>
+                            <input asp-for="Correo" class="form-control" placeholder="correo@ejemplo.com" />
+                        </div>
+                        <div class="mb-4">
+                            <label asp-for="Password" class="form-label fw-semibold">
+                                Contraseña
+                            </label>
+                            <input asp-for="Password"  type="password" class="form-control" placeholder="Ingrese su contraseña" />
+                        </div>
+                        <div class="d-grid">
+                            <button type="submit" class="btn btn-primary btn-lg">
+                                Ingresar
+                            </button>
+                        </div>
+                    </form>
+                </div>
+                <div class="card-footer text-center text-muted">
+                    Sistema de Gestión de Recordatorios
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0ACD0C1-DF87-0C52-8BD5-E5754EE24E0E}|Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj|c:\\users\\juanv\\onedrive - castrocarazo\\castro carazo\\cuatrimestres\\7mo cuatrimestre\\progra v\\asignaciones\\proyecto_recordatorios\\asignacion_2_recordatorios\\views\\recordatorio\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0ACD0C1-DF87-0C52-8BD5-E5754EE24E0E}|Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj|solutionrelative:asignacion_2_recordatorios\\views\\recordatorio\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D0ACD0C1-DF87-0C52-8BD5-E5754EE24E0E}|Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj|c:\\users\\juanv\\onedrive - castrocarazo\\castro carazo\\cuatrimestres\\7mo cuatrimestre\\progra v\\asignaciones\\proyecto_recordatorios\\asignacion_2_recordatorios\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0ACD0C1-DF87-0C52-8BD5-E5754EE24E0E}|Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj|solutionrelative:asignacion_2_recordatorios\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0ACD0C1-DF87-0C52-8BD5-E5754EE24E0E}|Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj|c:\\users\\juanv\\onedrive - castrocarazo\\castro carazo\\cuatrimestres\\7mo cuatrimestre\\progra v\\asignaciones\\proyecto_recordatorios\\asignacion_2_recordatorios\\models\\recordatoriovista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0ACD0C1-DF87-0C52-8BD5-E5754EE24E0E}|Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj|solutionrelative:asignacion_2_recordatorios\\models\\recordatoriovista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0ACD0C1-DF87-0C52-8BD5-E5754EE24E0E}|Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj|c:\\users\\juanv\\onedrive - castrocarazo\\castro carazo\\cuatrimestres\\7mo cuatrimestre\\progra v\\asignaciones\\proyecto_recordatorios\\asignacion_2_recordatorios\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0ACD0C1-DF87-0C52-8BD5-E5754EE24E0E}|Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj|solutionrelative:asignacion_2_recordatorios\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0ACD0C1-DF87-0C52-8BD5-E5754EE24E0E}|Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj|c:\\users\\juanv\\onedrive - castrocarazo\\castro carazo\\cuatrimestres\\7mo cuatrimestre\\progra v\\asignaciones\\proyecto_recordatorios\\asignacion_2_recordatorios\\views\\recordatorio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D0ACD0C1-DF87-0C52-8BD5-E5754EE24E0E}|Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj|solutionrelative:asignacion_2_recordatorios\\views\\recordatorio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ACD0C1-DF87-0C52-8BD5-E5754EE24E0E}|Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj|c:\\users\\juanv\\onedrive - castrocarazo\\castro carazo\\cuatrimestres\\7mo cuatrimestre\\progra v\\asignaciones\\proyecto_recordatorios\\asignacion_2_recordatorios\\views\\recordatorio\\_tablarecordatorios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0ACD0C1-DF87-0C52-8BD5-E5754EE24E0E}|Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj|solutionrelative:asignacion_2_recordatorios\\views\\recordatorio\\_tablarecordatorios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ACD0C1-DF87-0C52-8BD5-E5754EE24E0E}|Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj|c:\\users\\juanv\\onedrive - castrocarazo\\castro carazo\\cuatrimestres\\7mo cuatrimestre\\progra v\\asignaciones\\proyecto_recordatorios\\asignacion_2_recordatorios\\controllers\\recordatoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0ACD0C1-DF87-0C52-8BD5-E5754EE24E0E}|Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj|solutionrelative:asignacion_2_recordatorios\\controllers\\recordatoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ACD0C1-DF87-0C52-8BD5-E5754EE24E0E}|Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj|c:\\users\\juanv\\onedrive - castrocarazo\\castro carazo\\cuatrimestres\\7mo cuatrimestre\\progra v\\asignaciones\\proyecto_recordatorios\\asignacion_2_recordatorios\\views\\shared\\_usuarionoexiste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0ACD0C1-DF87-0C52-8BD5-E5754EE24E0E}|Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj|solutionrelative:asignacion_2_recordatorios\\views\\shared\\_usuarionoexiste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ACD0C1-DF87-0C52-8BD5-E5754EE24E0E}|Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj|c:\\users\\juanv\\onedrive - castrocarazo\\castro carazo\\cuatrimestres\\7mo cuatrimestre\\progra v\\asignaciones\\proyecto_recordatorios\\asignacion_2_recordatorios\\views\\shared\\_errorsupabase.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0ACD0C1-DF87-0C52-8BD5-E5754EE24E0E}|Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj|solutionrelative:asignacion_2_recordatorios\\views\\shared\\_errorsupabase.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ACD0C1-DF87-0C52-8BD5-E5754EE24E0E}|Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj|c:\\users\\juanv\\onedrive - castrocarazo\\castro carazo\\cuatrimestres\\7mo cuatrimestre\\progra v\\asignaciones\\proyecto_recordatorios\\asignacion_2_recordatorios\\views\\shared\\_usuariobloqueado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0ACD0C1-DF87-0C52-8BD5-E5754EE24E0E}|Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj|solutionrelative:asignacion_2_recordatorios\\views\\shared\\_usuariobloqueado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ACD0C1-DF87-0C52-8BD5-E5754EE24E0E}|Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj|c:\\users\\juanv\\onedrive - castrocarazo\\castro carazo\\cuatrimestres\\7mo cuatrimestre\\progra v\\asignaciones\\proyecto_recordatorios\\asignacion_2_recordatorios\\views\\shared\\_passwordincorrecto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0ACD0C1-DF87-0C52-8BD5-E5754EE24E0E}|Asignacion_2_Recordatorios\\Asignacion_2_Recordatorios.csproj|solutionrelative:asignacion_2_recordatorios\\views\\shared\\_passwordincorrecto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,32 +46,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RecordatorioVista.cs",
-              "DocumentMoniker": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Models\\RecordatorioVista.cs",
-              "RelativeDocumentMoniker": "Asignacion_2_Recordatorios\\Models\\RecordatorioVista.cs",
-              "ToolTip": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Models\\RecordatorioVista.cs",
-              "RelativeToolTip": "Asignacion_2_Recordatorios\\Models\\RecordatorioVista.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T17:38:23.217Z",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Asignacion_2_Recordatorios\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Asignacion_2_Recordatorios\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-07T16:30:38.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Views\\Recordatorio\\Create.cshtml",
-              "RelativeDocumentMoniker": "Asignacion_2_Recordatorios\\Views\\Recordatorio\\Create.cshtml",
-              "ToolTip": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Views\\Recordatorio\\Create.cshtml",
-              "RelativeToolTip": "Asignacion_2_Recordatorios\\Views\\Recordatorio\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-24T17:37:45.433Z",
+              "DocumentIndex": 4,
+              "Title": "RecordatorioController.cs",
+              "DocumentMoniker": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Controllers\\RecordatorioController.cs",
+              "RelativeDocumentMoniker": "Asignacion_2_Recordatorios\\Controllers\\RecordatorioController.cs",
+              "ToolTip": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Controllers\\RecordatorioController.cs",
+              "RelativeToolTip": "Asignacion_2_Recordatorios\\Controllers\\RecordatorioController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T16:15:56.81Z",
               "EditorCaption": ""
             },
             {
@@ -58,9 +82,87 @@
               "RelativeDocumentMoniker": "Asignacion_2_Recordatorios\\Views\\Recordatorio\\Index.cshtml",
               "ToolTip": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Views\\Recordatorio\\Index.cshtml",
               "RelativeToolTip": "Asignacion_2_Recordatorios\\Views\\Recordatorio\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-24T17:23:11.255Z",
+              "WhenOpened": "2026-07-07T16:14:04.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_TablaRecordatorios.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Views\\Recordatorio\\_TablaRecordatorios.cshtml",
+              "RelativeDocumentMoniker": "Asignacion_2_Recordatorios\\Views\\Recordatorio\\_TablaRecordatorios.cshtml",
+              "ToolTip": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Views\\Recordatorio\\_TablaRecordatorios.cshtml",
+              "RelativeToolTip": "Asignacion_2_Recordatorios\\Views\\Recordatorio\\_TablaRecordatorios.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAFkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-07T16:13:48.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ErrorSupabase.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Views\\Shared\\_ErrorSupabase.cshtml",
+              "RelativeDocumentMoniker": "Asignacion_2_Recordatorios\\Views\\Shared\\_ErrorSupabase.cshtml",
+              "ToolTip": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Views\\Shared\\_ErrorSupabase.cshtml",
+              "RelativeToolTip": "Asignacion_2_Recordatorios\\Views\\Shared\\_ErrorSupabase.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-07T16:13:13.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_UsuarioBloqueado.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Views\\Shared\\_UsuarioBloqueado.cshtml",
+              "RelativeDocumentMoniker": "Asignacion_2_Recordatorios\\Views\\Shared\\_UsuarioBloqueado.cshtml",
+              "ToolTip": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Views\\Shared\\_UsuarioBloqueado.cshtml",
+              "RelativeToolTip": "Asignacion_2_Recordatorios\\Views\\Shared\\_UsuarioBloqueado.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-07T16:13:05.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_PasswordIncorrecto.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Views\\Shared\\_PasswordIncorrecto.cshtml",
+              "RelativeDocumentMoniker": "Asignacion_2_Recordatorios\\Views\\Shared\\_PasswordIncorrecto.cshtml",
+              "ToolTip": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Views\\Shared\\_PasswordIncorrecto.cshtml",
+              "RelativeToolTip": "Asignacion_2_Recordatorios\\Views\\Shared\\_PasswordIncorrecto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-07T16:12:53.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_UsuarioNoExiste.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Views\\Shared\\_UsuarioNoExiste.cshtml",
+              "RelativeDocumentMoniker": "Asignacion_2_Recordatorios\\Views\\Shared\\_UsuarioNoExiste.cshtml",
+              "ToolTip": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Views\\Shared\\_UsuarioNoExiste.cshtml",
+              "RelativeToolTip": "Asignacion_2_Recordatorios\\Views\\Shared\\_UsuarioNoExiste.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-07T16:12:37.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Asignacion_2_Recordatorios\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\juanv\\OneDrive - CastroCarazo\\CASTRO CARAZO\\CUATRIMESTRES\\7mo CUATRIMESTRE\\Progra V\\Asignaciones\\Proyecto_Recordatorios\\Asignacion_2_Recordatorios\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Asignacion_2_Recordatorios\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-07T16:12:12.162Z",
               "EditorCaption": ""
             },
             {

@@ -8,6 +8,13 @@ namespace Asignacion_2_Recordatorios.Controllers
     {
         public async Task<IActionResult> Index()
         {
+            if (HttpContext.Session.GetInt32("UsuarioId") == null)
+            {
+                return RedirectToAction(
+                    "Login",
+                    "Auth");
+            }
+
             var client = await SupabClient.GetClient();
 
             var response =
@@ -20,6 +27,13 @@ namespace Asignacion_2_Recordatorios.Controllers
 
         public IActionResult Create()
         {
+            if (HttpContext.Session.GetInt32("UsuarioId") == null)
+            {
+                return RedirectToAction(
+                    "Login",
+                    "Auth");
+            }
+
             return View();
         }
 
@@ -27,9 +41,16 @@ namespace Asignacion_2_Recordatorios.Controllers
         public async Task<IActionResult> Create(
             Recordatorio recordatorio)
         {
+            if (HttpContext.Session.GetInt32("UsuarioId") == null)
+            {
+                return RedirectToAction(
+                    "Login",
+                    "Auth");
+            }
+
             var client = await SupabClient.GetClient();
 
-            recordatorio.UsuarioId = 1;
+            recordatorio.UsuarioId = HttpContext.Session.GetInt32("UsuarioId").Value;
             recordatorio.Completado = false;
 
             await client
@@ -42,6 +63,13 @@ namespace Asignacion_2_Recordatorios.Controllers
 
         public async Task<IActionResult> Completar(int id)
         {
+            if (HttpContext.Session.GetInt32("UsuarioId") == null)
+            {
+                return RedirectToAction(
+                    "Login",
+                    "Auth");
+            }
+
             var client = await SupabClient.GetClient();
 
             // 1. Buscar el registro por ID
